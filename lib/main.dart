@@ -1,3 +1,10 @@
+
+/// This flutter project is Shopping mall management Application.
+///            group members:
+///                Hanan Kedir    ATE/9625/08
+///               Meron Assefa   ATE/9448/08
+
+
 import 'package:flutter/material.dart';
 import 'package:shopping_mall/screens/wrapper.dart';
 
