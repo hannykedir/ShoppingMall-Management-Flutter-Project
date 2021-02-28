@@ -1,6 +1,6 @@
 
 /// This flutter project is Shopping mall management Application.
-///            group members:
+///            Group Members:
 ///                Hanan Kedir    ATE/9625/08
 ///               Meron Assefa   ATE/9448/08
 
